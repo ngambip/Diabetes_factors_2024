@@ -139,7 +139,7 @@ Below are the Data Quality Check
 
 ## Row count
 
-![Row-Count](Collection/SQL_Images/Row_count.png)
+![Row-Count](Collection/SQLImages/Row_count.png)
 
 
 ## Data Type Check
