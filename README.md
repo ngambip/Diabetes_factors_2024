@@ -8,7 +8,7 @@
 ## Exploring BMI Categories and Health Factors: A Data Analysis Project
 
 
-![BMI-MEASURE](Collection/SQL_Images/Row_count.png)
+![BMI-MEASURE](Collection/Images/Untitled.png)
 
 
 # Table of contents 
