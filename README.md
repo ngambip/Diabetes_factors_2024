@@ -78,12 +78,12 @@ This dataset contains comprehensive health data for 1,879 patients, including cr
 
 The dashbord should answer the following question
 
-1. Which age group has the highest BMI?
+1. Which age group has the highest BMI Measure?
 2. Does Ethicinity have a factor on BMI Measure?
-3. Ehich educational level has the worst BMI?
-4. What is the Average BMI across the Population in Qustion?
-5. Is Gender a factor interms of BMI measurement?
-6. To what Extent is Diet a Factor?
+3. Which educational level has the worst BMI?
+4. What is the Average BMI across the Population in Question?
+5. Is Gender a factor interms of Average BMI?
+6. To what Extent is Diet a Factor to Average BMI?
 
 
 ## Tools Used
@@ -141,25 +141,25 @@ Below are the Data Quality Check
 
 
 
-![Row-Count](Collection/SQL_Images/Row_count.png)
+![Row Count](Collection/SQL_Images/Row_count.png)
 
 
 
 ## Data Type Check
 
-![Data-Type-check](Collection/SQL_Images/Data_type_checks.png)
+![Data Type-check](Collection/SQL_Images/Data_type_checks.png)
 
 
 ## Duplicate Check
 
-![Data-Type-check](Collection/SQL_Images/Duplicate_count.png)
+![Data Type check](Collection/SQL_Images/Duplicate_count.png)
 
 
    # Visualization  
    
 -  POWER BI DASHBOARD
 -  
- ![PBI-DASHBOARD](Collection/Images/BMI_MEASURE_DASHBOARD.png)
+ ![PBI DASHBOARD](Collection/Images/BMI_MEASURE_DASHBOARD.png)
   
 This shows the different factors that affect BMI measures and to what extent.
 
