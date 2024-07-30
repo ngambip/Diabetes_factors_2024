@@ -49,7 +49,7 @@ Understanding how BMI correlates with various factors to pinpoint vulnerable pop
 ## User Story
 I aimed to design a dashboard providing instant analytics on BMI, age, socioeconomic status, education, and diet to identify and support populations at risk of hypertension and diabetes.
 
-The Dashboarrd will provide insights about the potential triggers of diebetes with people of a high BMI measure
+The Dashboarrd will provide insights about the potential triggers of diabetes with people of a high BMI measure
   - BMI and Age
   - BMI and Socio-Economic Factors
   - BMI Against Education
@@ -113,7 +113,7 @@ The dashbord should answer the following question
 
 ## Data Exploration
 
-This is the stage where you have a scan of what's in the data, errors, inconcsistencies, bugs, weird and corrupted characters etc  
+This is the stage where you have a scan of what's in the data, errors and inconcsistencies.
 
 - Initial Observations:
   1. The dataset is voluminous; focused on relevant data matching project objectives.
@@ -141,7 +141,7 @@ Below are the Data Quality Check
 
 
 
-  ![Row Count](Collection/SQL'%20'Images/Row_count.png)
+  ![Row Count](Collection/SQL''Images/Row_count.png)
 
 
 
