@@ -8,7 +8,7 @@
 ## Exploring BMI Categories and Health Factors: A Data Analysis Project
 
 
-![Collection/Images/Untitled.png]
+![BMI MEASURE](https://github.com/ngambip/Collection/Images/Untitled.png)
 
 
 # Table of contents 
