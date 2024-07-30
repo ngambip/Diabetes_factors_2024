@@ -141,7 +141,7 @@ Below are the Data Quality Check
 
 
 
-  ![Row Count](Collection/SQL''Images/Row_count.png)
+  ![Row Count](Collection/SQL_Images/Row_count.png)
 
 
 
