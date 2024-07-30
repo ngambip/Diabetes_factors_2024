@@ -139,7 +139,7 @@ Below are the Data Quality Check
 
 ## Row count
 
-![Row Count](Diebetes_factors_2024/Collection/SQL_Images/Row_count.png)
+![Row Count](https://githum.com/ngambi/Diebetes_factors_2024/Collection/SQL_Images/Row_count.png)
 
 
 ## Data Type Check
