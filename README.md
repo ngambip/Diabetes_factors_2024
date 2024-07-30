@@ -147,19 +147,19 @@ Below are the Data Quality Check
 
 ## Data Type Check
 
-  ![Data Type-check](Collection/SQLImages/Data_type_checks.png)
+  ![Data Type-check](Collection/SQL_Images/Data_type_checks.png)
 
 
 ## Duplicate Check
 
-  ![Data Type check](Collection/SQLImages/Duplicate_count.png)
+  ![Data Type check](Collection/SQL_Images/Duplicate_count.png)
 
 
    # Visualization  
    
 -  POWER BI DASHBOARD
 -  
-   ![PBI DASHBOARD](Collection/Images/BMI_MEASURE_DASHBOARD.png)
+   ![PBI DASHBOARD]()
   
 This shows the different factors that affect BMI measures and to what extent.
 
@@ -176,7 +176,7 @@ This shows the different factors that affect BMI measures and to what extent.
 RETURN  Average BMI across all patients
 
 ### SOCIAL ECONOMIC STATUS
-  ![AVG BMI Category](/Collection/Images/SES_Category.png)
+  ![AVG BMI Category]()
 
 RETURN  Scotial economic status againts average BMI
 
