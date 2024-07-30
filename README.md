@@ -139,24 +139,24 @@ Below are the Data Quality Check
 
 ## Row count
 
-![Row Count](https://github.com/ngambip/Diabetes_factors_2024/Collection/SQL_Images/Row_count.png)
+![Row Count](/Collection/SQL_Images/Row_count.png)
 
 
 ## Data Type Check
 
-![Data-Type-check](https://github.com/ngambip/Diabetes_factors_2024/Collection/SQL_Images/Data_type_checks.png)
+![Data-Type-check](Collection/SQL_Images/Data_type_checks.png)
 
 
 ## Duplicate Check
 
-![Data-Type-check](https://github.com/ngambip/Diabetes_factors_2024/Collection/SQL_Images/Duplicate_count.png)
+![Data-Type-check](Collection/SQL_Images/Duplicate_count.png)
 
 
    # Visualization  
    
 -  POWER BI DASH BOARD
 -  
- ![PBI DASHBOARD](https://github.com/ngambip/Diabetes_factors_2024/Collection/Images/BMI_MEASURE_DASHBOARD.png)
+ ![PBI DASHBOARD](/Collection/Images/BMI_MEASURE_DASHBOARD.png)
   
 This shows the different factors that affect BMI measures and to what extent.
 
@@ -168,19 +168,20 @@ This shows the different factors that affect BMI measures and to what extent.
 
 ### AVERAGE BMI CATEGORIS
 
-![AVG BMI Category](https://github.com/ngambip/Diabetes_factors_2024/Collection/Images/Average_WHO_BMI_Measure.png)
+![AVG BMI Category](Collection/Images/Average_WHO_BMI_Measure.png)
 
 RETURN  Average BMI across all patients
 
 ### SOCIAL ECONOMIC STATUS
-![AVG BMI Category](https://github.com/ngambip/Diabetes_factors_2024/Collection/Images/SES Category.png)
+![AVG BMI Category](/Collection/Images/SES_Category.png)
 
 RETURN  Scotial economic status againts average BMI
 
 
 ### EDUCATIONAL LEVEL
 
-![Educational Level](https://github.com/ngambip/Diabetes_factors_2024/Collection/Images/Educational_Level_Category.png)
+![image](https://github.com/user-attachments/assets/170c211b-9377-4067-9b81-f42115fccdf2)
+
 
 RETURN Educational Level Against Average BMI
 
@@ -188,7 +189,7 @@ RETURN Educational Level Against Average BMI
 
 ### DIET SCORES
 
-![Educational Level](https://github.com/ngambip/Diabetes_factors_2024/Collection/Images/Diet_Quality_Measures.png)
+![Educational Level](Collection/Images/Diet_Quality_Measures.png)
 
  return Diet Score Against Average BMI  
 
@@ -224,4 +225,7 @@ RETURN Educational Level Against Average BMI
 # Conclusion
 
 This project underscores the importance of targeted health interventions based on age, socioeconomic status, education, and diet quality to promote healthier BMI outcomes and combat obesity.
+
+
+![GOOD LUCK](Collection/Images/Picture1.png)
 
