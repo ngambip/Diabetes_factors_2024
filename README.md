@@ -139,7 +139,7 @@ Below are the Data Quality Check
 
 ## Row count
 
-![Row Count](https://github.com/ngambip/Diabetes_factors_2024/Collection/SQL_Images/Row_count.png)
+![Row-Count](Collection/SQL_Images/Row_count.png)
 
 
 ## Data Type Check
