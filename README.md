@@ -159,7 +159,7 @@ Below are the Data Quality Check
    
 -  POWER BI DASHBOARD
 -  
-   ![PBI DASHBOARD](Collection/Images/PBI_Dashboard.png)
+   ![PBI DASHBOARD](Collection/Images)
   
 This shows the different factors that affect BMI measures and to what extent.
 
