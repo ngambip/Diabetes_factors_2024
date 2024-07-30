@@ -159,7 +159,7 @@ Below are the Data Quality Check
    
 -  POWER BI DASHBOARD
 -  
-   ![PBI DASHBOARD](Collection/Images/PBI_Dashboard.png)
+   ![PBI DASHBOARD]()
   
 This shows the different factors that affect BMI measures and to what extent.
 
@@ -230,5 +230,5 @@ RETURN Educational Level Against Average BMI
 This project underscores the importance of targeted health interventions based on age, socioeconomic status, education, and diet quality to promote healthier BMI outcomes and combat obesity.
 
 
-![GOOD LUCK]()
+![GOOD LUCK](Collection/Picture1.png)
 
