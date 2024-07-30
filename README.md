@@ -8,7 +8,7 @@
 ## Exploring BMI Categories and Health Factors: A Data Analysis Project
 
 
-![BMI MEASURE]()
+![BMI MEASURE](Collection/Images/Untitled.png)
 
 
 # Table of contents 
@@ -230,5 +230,5 @@ RETURN Educational Level Against Average BMI
 This project underscores the importance of targeted health interventions based on age, socioeconomic status, education, and diet quality to promote healthier BMI outcomes and combat obesity.
 
 
-![GOOD LUCK](Collection/Images/Picture1.png)
+![GOOD LUCK]()
 
