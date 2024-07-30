@@ -8,7 +8,7 @@
 ## Exploring BMI Categories and Health Factors: A Data Analysis Project
 
 
-![BMI MEASURE](Collection/Images/Untitled.png)
+![BMI MEASURE]()
 
 
 # Table of contents 
@@ -159,7 +159,7 @@ Below are the Data Quality Check
    
 -  POWER BI DASHBOARD
 -  
-   ![PBI DASHBOARD]()
+   ![PBI DASHBOARD](Collection/Images/PBI_Dashboard.png)
   
 This shows the different factors that affect BMI measures and to what extent.
 
