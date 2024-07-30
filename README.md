@@ -141,25 +141,25 @@ Below are the Data Quality Check
 
 
 
-![Row Count](Collection/SQL_Images/Row_count.png)
+  ![Row Count](Collection/SQL_Images/Row_count.png)
 
 
 
 ## Data Type Check
 
-![Data Type-check](Collection/SQL_Images/Data_type_checks.png)
+  ![Data Type-check](Collection/SQL_Images/Data_type_checks.png)
 
 
 ## Duplicate Check
 
-![Data Type check](Collection/SQL_Images/Duplicate_count.png)
+  ![Data Type check](Collection/SQL_Images/Duplicate_count.png)
 
 
    # Visualization  
    
 -  POWER BI DASHBOARD
 -  
- ![PBI DASHBOARD](Collection/Images/BMI_MEASURE_DASHBOARD.png)
+   ![PBI DASHBOARD](Collection/Images/BMI_MEASURE_DASHBOARD.png)
   
 This shows the different factors that affect BMI measures and to what extent.
 
@@ -171,19 +171,19 @@ This shows the different factors that affect BMI measures and to what extent.
 
 ### AVERAGE BMI CATEGORIS
 
-![AVG BMI Category](Collection/Images/Average_WHO_BMI_Measure.png)
+  ![AVG BMI Category](Collection/Images/Average_WHO_BMI_Measure.png)
 
 RETURN  Average BMI across all patients
 
 ### SOCIAL ECONOMIC STATUS
-![AVG BMI Category](/Collection/Images/SES_Category.png)
+  ![AVG BMI Category](/Collection/Images/SES_Category.png)
 
 RETURN  Scotial economic status againts average BMI
 
 
 ### EDUCATIONAL LEVEL
 
-![Educational-Level](Collection/Images/Educational_Level_Category.png)
+  ![Educational-Level](Collection/Images/Educational_Level_Category.png)
 
 
 RETURN Educational Level Against Average BMI
@@ -192,7 +192,7 @@ RETURN Educational Level Against Average BMI
 
 ### DIET SCORES
 
-![Diet-Scoresl](Collection/Images/Diet_Quality_Measures.png)
+  ![Diet-Scoresl](Collection/Images/Diet_Quality_Measures.png)
 
  return Diet Score Against Average BMI  
 
