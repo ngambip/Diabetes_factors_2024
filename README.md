@@ -139,7 +139,7 @@ Below are the Data Quality Check
 
 ## Row count
 
-![Row Count](/Collection/SQL_Images/Row_count.png)
+![Row Count](Diebetes_factors_2024/Collection/SQL_Images/Row_count.png)
 
 
 ## Data Type Check
@@ -154,9 +154,9 @@ Below are the Data Quality Check
 
    # Visualization  
    
--  POWER BI DASH BOARD
+-  POWER BI DASHBOARD
 -  
- ![PBI DASHBOARD](/Collection/Images/BMI_MEASURE_DASHBOARD.png)
+ ![PBI-DASHBOARD](Collection/Images/BMI_MEASURE_DASHBOARD.png)
   
 This shows the different factors that affect BMI measures and to what extent.
 
@@ -180,7 +180,7 @@ RETURN  Scotial economic status againts average BMI
 
 ### EDUCATIONAL LEVEL
 
-![image](https://github.com/user-attachments/assets/170c211b-9377-4067-9b81-f42115fccdf2)
+![Educational-Level](Collection/Images/Educational_Level_Category.png)
 
 
 RETURN Educational Level Against Average BMI
@@ -189,7 +189,7 @@ RETURN Educational Level Against Average BMI
 
 ### DIET SCORES
 
-![Educational Level](Collection/Images/Diet_Quality_Measures.png)
+![Diet-Scoresl](Collection/Images/Diet_Quality_Measures.png)
 
  return Diet Score Against Average BMI  
 
