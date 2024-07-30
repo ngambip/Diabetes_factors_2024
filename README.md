@@ -131,7 +131,7 @@ This is the stage where you have a scan of what's in the data, errors, inconcsis
 
     Working Dataset:
        Reduced columns from 46 to 10, focusing on key variables.
-        Standardized BMI, diet quality, and activity to 4 decimal places for consistency.
+       Standardized BMI, diet quality, and activity to 4 decimal places for consistency.
 
 ## Data Testing
 
@@ -139,7 +139,7 @@ Below are the Data Quality Check
 
 ## Row count
 
-![Row Count](https://githum.com/ngambi/Diebetes_factors_2024/Collection/SQL_Images/Row_count.png)
+![Row Count](https://github.com/ngambip/Diebetes_factors_2024/Collection/SQL_Images/Row_count.png)
 
 
 ## Data Type Check
