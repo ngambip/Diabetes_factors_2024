@@ -159,7 +159,7 @@ Below are the Data Quality Check
    
 -  POWER BI DASHBOARD
 -  
-   ![PBI DASHBOARD]()
+   ![PBI DASHBOARD](Collection/Images/PBI_Dashboard.png)
   
 This shows the different factors that affect BMI measures and to what extent.
 
@@ -176,7 +176,7 @@ This shows the different factors that affect BMI measures and to what extent.
 RETURN  Average BMI across all patients
 
 ### SOCIAL ECONOMIC STATUS
-  ![AVG BMI Category]()
+  ![AVG BMI Category](Collection/Images/SES_Category.png)
 
 RETURN  Scotial economic status againts average BMI
 
