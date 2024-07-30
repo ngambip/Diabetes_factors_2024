@@ -8,7 +8,7 @@
 ## Exploring BMI Categories and Health Factors: A Data Analysis Project
 
 
-![BMI-MEASURE](https:/ngambip/Diabetes_factors_2024/Collection/Images/Untitled.png)
+![BMI-MEASURE](Diabetes_factors_2024/Collection/Images/Untitled.png)
 
 
 # Table of contents 
