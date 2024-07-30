@@ -8,7 +8,7 @@
 ## Exploring BMI Categories and Health Factors: A Data Analysis Project
 
 
-![BMI MEASURE](https://github.com/ngambip/Collection/Images/Untitled.png)
+![BMI-MEASURE](https://github.com/ngambip/Diabetes_factors_2024/Collection/Images/Untitled.png)
 
 
 # Table of contents 
@@ -30,12 +30,9 @@
   - [DAX Measures](#dax-measures)
 - [Analysis](#analysis)
   - [Findings](#findings)
-  - [Validation](#validation)
-  - [Discovery](#discovery)
+   - [Discovery](#discovery)
 - [Recommendations](#recommendations)
-  - [Potential ROI](#potential-roi)
-  - [Potential Courses of Actions](#potential-courses-of-actions)
-- [Conclusion](#conclusion)
+  - [Conclusion](#conclusion)
 
 
 # Objective
@@ -142,44 +139,89 @@ Below are the Data Quality Check
 
 ## Row count
 
+![Row Count](https://github.com/ngambip/Diabetes_factors_2024/Collection/SQL_Images/Row_count.png)
+
+
+## Data Type Check
+
+![Data-Type-check](https://github.com/ngambip/Diabetes_factors_2024/Collection/SQL_Images/Data_type_checks.png)
+
+
+## Duplicate Check
+
+![Data-Type-check](https://github.com/ngambip/Diabetes_factors_2024/Collection/SQL_Images/Duplicate_count.png)
+
+
+   # Visualization  
+   
+-  POWER BI DASH BOARD
+-  
+ ![PBI DASHBOARD](https://github.com/ngambip/Diabetes_factors_2024/Collection/Images/BMI_MEASURE_DASHBOARD.png)
+  
+This shows the different factors that affect BMI measures and to what extent.
 
 
 
 
 
+## DAX Measures
 
-        
+### AVERAGE BMI CATEGORIS
 
-Data Analysis
+![AVG BMI Category](https://github.com/ngambip/Diabetes_factors_2024/Collection/Images/Average_WHO_BMI_Measure.png)
 
-    BMI and Age:
+RETURN  Average BMI across all patients
+
+### SOCIAL ECONOMIC STATUS
+![AVG BMI Category](https://github.com/ngambip/Diabetes_factors_2024/Collection/Images/SES Category.png)
+
+RETURN  Scotial economic status againts average BMI
+
+
+### EDUCATIONAL LEVEL
+
+![Educational Level](https://github.com/ngambip/Diabetes_factors_2024/Collection/Images/Educational_Level_Category.png)
+
+RETURN Educational Level Against Average BMI
+
+
+
+### DIET SCORES
+
+![Educational Level](https://github.com/ngambip/Diabetes_factors_2024/Collection/Images/Diet_Quality_Measures.png)
+
+ return Diet Score Against Average BMI  
+
+# Data Analysis
+
+
+
+    1.  BMI and Age:
         Analyzed BMI distribution across age groups to understand health demographics related to BMI categories.
 
-    BMI and Socio-Economic Factors:
+    2.  BMI and Socio-Economic Factors:
         Examined BMI distribution based on socioeconomic factors, identifying correlations and impacts on BMI outcomes.
 
-    BMI Against Education:
+    3.  BMI Against Education:
         Investigated BMI in relation to educational attainment to assess educational impacts on BMI and health.
 
-    BMI Against Diet:
+    4.  BMI Against Diet:
         Explored BMI categories in connection with diet quality and habits to understand dietary influences on BMI.
 
-Key Insights and Findings
+  ## Findings
 
     BMI – Age Analysis: Highlighted obesity trends across different age groups, emphasizing the need for age-specific health interventions.
     BMI – Education Analysis: Identified higher obesity rates among certain education levels, suggesting lifestyle impacts.
     BMI – Socioeconomic Status Analysis: Noted variations in BMI across different socioeconomic groups, proposing tailored health programs.
 
-Recommendations
+# Recommendations
 
     BMI by Age: Develop targeted interventions for specific age groups to prevent obesity.
     BMI by Socioeconomic Status: Implement customized health programs for different SES groups.
     BMI by Education Level: Tailor public health campaigns to promote healthy lifestyles among different educational backgrounds.
     BMI by Diet Score: Encourage healthier eating habits through nutritional guidance and education.
 
-Conclusion
+# Conclusion
 
 This project underscores the importance of targeted health interventions based on age, socioeconomic status, education, and diet quality to promote healthier BMI outcomes and combat obesity.
-GitHub Repository
 
-Provide a link to your GitHub repository where your project documentation, code, and insights are hosted.
