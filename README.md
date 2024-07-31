@@ -33,7 +33,7 @@
    - [Discovery](#discovery)
 - [Recommendations](#recommendations)
   - [Conclusion](#conclusion)
-
+  - [project Evaluation[(#project-evaluation)
 
 # Objective
 
@@ -130,8 +130,13 @@ This is the stage where you have a scan of what's in the data, errors and inconc
   5.  Cheched for Null and Blanks  
 
     Working Dataset:
+    
        Reduced columns from 46 to 10, focusing on key variables.
+       
        Standardized BMI, diet quality, and activity to 4 decimal places for consistency.
+
+
+       
 
 ## Data Testing
 
@@ -157,7 +162,7 @@ Below are the Data Quality Check
 
    # Visualization  
    
--  POWER BI DASHBOARD
+
 -  
    ![PBI DASHBOARD](Collection/Images/Power_bi_Dashboard.png)
   
@@ -173,28 +178,29 @@ This shows the different factors that affect BMI measures and to what extent.
 
   ![AVG BMI Category](Collection/Images/Average_WHO_BMI_Measure.png)
 
-RETURN  Average BMI across all patients
+Return Average BMI of All Patients
 
 ### SOCIAL ECONOMIC STATUS
-  ![AVG BMI Category](Collection/Images/SES_Category.png)
 
-RETURN  Scotial economic status againts average BMI
+  ![AVG BMI Category](Collection/Images/Average_BMI_by_SES.png)
+
+Return Socila Economic status againts average BMI
 
 
 ### EDUCATIONAL LEVEL
 
-  ![Educational-Level](Collection/Images/Educational_Level_Category.png)
+  ![Educational-Level](Collection/Images/Average_BMI_by_Educational_Level.png)
 
 
-RETURN Educational Level Against Average BMI
+return Educational Level Against Average BMI
 
 
 
 ### DIET SCORES
 
-  ![Diet-Scoresl](Collection/Images/Diet_Quality_Measures.png)
+  ![Diet-Scoresl](Collection/Images/Average_BMI_by_DietScore.png)
 
- return Diet Score Against Average BMI  
+ return Average Diet Score Against Average BMI  
 
 # Data Analysis
 
@@ -214,20 +220,37 @@ RETURN Educational Level Against Average BMI
 
   ## Findings
 
-    BMI – Age Analysis: Highlighted obesity trends across different age groups, emphasizing the need for age-specific health interventions.
-    BMI – Education Analysis: Identified higher obesity rates among certain education levels, suggesting lifestyle impacts.
-    BMI – Socioeconomic Status Analysis: Noted variations in BMI across different socioeconomic groups, proposing tailored health programs.
+   -     BMI Age Analysis: Highlighted obesity trends across different age groups, emphasizing the need for age-specific health interventions.Age groups of 40-49 and 80-                89 had the highest record of Obesity whilst this was common in all ages each group recording above 100 patients as being Obese.
+    
+   -   BMI Education Analysis: Identified higher obesity rates among certain education levels especialy holders of Barchelors Degree qualification. These constitute                   atleast 39% of the populations and have shown high numbers in those with average BMI above the recommended.
+    
+   -   BMI Socioeconomic Status Analysis: Noted variations in BMI across different socioeconomic groups and medium income earners being the highted numbers of Obese                   Patients recording 302.
+    
+    -   BMI Diet Score: People who's diet score was rated poor and fair had their Average BMI above avarage. Out of the population of 1,879, 321 diet score was poor and                 245  was fair and also categorised Obese being 30% of the population.
 
+    -   BMI Etinicity: It was also noted the People of Causian race had average BMI above average and where of the population 280 Causians were recorded as Obese and                   Overweight.
+
+    -    BMI Gender : Gender is not a big issue when it comes to Average BMI measure . This was just a 1% difference between them and Women having a higher % than women.
+
+    -    It was also noted that out of the  entire population 34% was categorised as Obese and 27% was found Overweight , therefore having over half of the population eing           unhealhty and potential risk to the deadly diseases.
+     
 # Recommendations
 
-    BMI by Age: Develop targeted interventions for specific age groups to prevent obesity.
-    BMI by Socioeconomic Status: Implement customized health programs for different SES groups.
-    BMI by Education Level: Tailor public health campaigns to promote healthy lifestyles among different educational backgrounds.
-    BMI by Diet Score: Encourage healthier eating habits through nutritional guidance and education.
+    -  BMI by Age: Develop targeted interventions for specific age groups to prevent obesity Especially eary intervention for the age of 20-29 so that they mature with the                     culture of being and maintaing a healthy life style.
+    
+    -  BMI by Socioeconomic Status: Implement customized health programs for different SES groups.
+    
+    -  BMI by Education Level: Tailor public health campaigns to promote healthy lifestyles among different educational backgrounds.
+    
+   -   BMI by Diet Score: Encourage healthier eating habits through nutritional guidance and education.
 
 # Conclusion
 
-This project underscores the importance of targeted health interventions based on age, socioeconomic status, education, and diet quality to promote healthier BMI outcomes and combat obesity.
+The BMI analysis project has provided valuable insights into the factors influencing obesity across different demographics. The findings underscore the importance of age, education, socioeconomic status, and diet in shaping BMI trends. By implementing targeted interventions and tailored health programs, we can address the specific needs of various groups and promote healthier lifestyles.
+
+# Project Evaluation:
+
+This project was a worthwhile undertaking as it highlighted critical areas for intervention and provided actionable recommendations to combat obesity. The insights gained from this analysis can inform public health policies and programs, ultimately contributing to better health outcomes for diverse populations. The project's success lies in its ability to identify at-risk groups and propose practical solutions, making it a valuable contribution to public health research and practice.
 
 
 ![GOOD LUCK](Collection/Picture1.png)
