@@ -211,12 +211,14 @@ return Educational Level Against Average BMI
     (iv) BMI Against Diet:Explored BMI categories in connection with diet quality and habits to understand dietary influences on BMI.
     
      (v) BMI and diet score was used to determine the impact of diet on the sacle of BMI.
+     
 
   ## Findings
+  
 
    (i) BMI Age Analysis: Highlighted obesity trends across different age groups, emphasizing the need for age-specific health interventions.Age groups of 40-49 and 80-89         had the highest record of Obesity whilst this was common in all ages each group recording above 100 patients as being Obese.
     
-  (ii) BMI Education Analysis: Identified higher obesity rates among certain education levels especialy holders of Barchelors Degree qualification.These constitute                atleast 39% of the populations and have shown high numbers of those with average BMI above           the recommended.
+  (ii) BMI Education Analysis: Identified higher obesity rates among certain education levels especialy holders of Barchelors Degree qualification.These constitute                atleast 39% of the populations and have shown high numbers of those with average BMI above the recommended.
     
   (iii) BMI Socioeconomic Status Analysis: Noted variations in BMI across different socioeconomic groups and medium income earners being the highted numbers of Obese               Patients recording 302.
     
@@ -227,12 +229,13 @@ return Educational Level Against Average BMI
    (Vi) BMI Gender: Gender is not a big issue when it comes to Average BMI measure.This was just a 1% difference between them and Women having a higher % than women.
 
   (Vii) It was also noted that out of the  entire population 34% was categorised as Obese and 27% was found Overweight, thereforebhaving over half of the population being          unhealhty and potential risk to the deadly diseases.
+  
      
 # Recommendations
 
-   (i) BMI by Age: Develop targeted interventions for specific age groups to prevent obesity Especially eary intervention for the age of 20-29 so that they mature with the         culture of being and maintaing a healthy life style.
+   (i) BMI by Age: Develop targeted interventions for specific age groups to prevent obesity Especially eary intervention for the age of 20-29 so that they mature with the        culture of being and maintaing a healthy life style.
     
-   (ii) BMI by Socioeconomic Status,Implement customized health programs for different SES groups.
+  (ii) BMI by Socioeconomic Status,Implement customized health programs for different SES groups.
     
   (iii) BMI by Education Level: Tailor public health campaigns to promote healthy lifestyles among different educational backgrounds.
     
