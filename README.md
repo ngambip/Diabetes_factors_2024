@@ -201,34 +201,33 @@ return Educational Level Against Average BMI
 
 # Data Analysis
    
-    (i) Age and Avg BMI, showed a distribution across age groups to understand health demographics related to BMI categories.
+  (i) Age and Avg BMI, showed a distribution across age groups to understand health demographics related to BMI categories.
 
-    (ii) BMI and Socio-Economic Factors examined BMI distribution based on socioeconomic factors, identifying correlations and impacts 
-         on BMI outcomes.
+  (ii) BMI and Socio-Economic Factors examined BMI distribution based on socioeconomic factors, identifying correlations              and impacts on BMI outcomes.
     
-    (iii) BMI Against Education Investigated BMI in relation to educational attainment to assess educational impacts on BMI and health.
+  (iii) BMI Against Education Investigated BMI in relation to educational attainment to assess educational impacts on BMI              and health.
 
-    (iv) BMI Against Diet:Explored BMI categories in connection with diet quality and habits to understand dietary influences on BMI.
+    (iv) BMI Against Diet:Explored BMI categories in connection with diet quality and habits to understand dietary                      influences on BMI.
     
-     (v) BMI and diet score was used to determine the impact of diet on the sacle of BMI.
+     (v) BMI and diet scores was used to determine the impact of diet on the sacle of BMI.
      
 
   ## Findings
   
 
-   (i) BMI Age Analysis: Highlighted obesity trends across different age groups, emphasizing the need for age-specific health interventions.Age groups of 40-49 and 80-89         had the highest record of Obesity whilst this was common in all ages each group recording above 100 patients as being Obese.
+   (i) BMI Age Analysis: Highlighted obesity trends across different age groups, emphasizing the need for age-specific             health interventions.Age groups of 40-49 and 80-89 had the highest record of Obesity whilst this was common in all         ages each group recording above 100 patients as being Obese.
     
-  (ii) BMI Education Analysis: Identified higher obesity rates among certain education levels especialy holders of Barchelors Degree qualification.These constitute                atleast 39% of the populations and have shown high numbers of those with average BMI above the recommended.
+  (ii) BMI Education Analysis: Identified higher obesity rates among certain education levels especialy holders of                 Barchelors Degree qualification.These constitute atleast 39% of the populations and have shown high numbers of              those with average BMI above the recommended.
     
-  (iii) BMI Socioeconomic Status Analysis: Noted variations in BMI across different socioeconomic groups and medium income earners being the highted numbers of Obese               Patients recording 302.
+  (iii) BMI Socioeconomic Status Analysis: Noted variations in BMI across different socioeconomic groups and medium income             earners being the highted numbers of Obese Patients recording 302.
     
-  (iv) BMI Diet Score: People who's diet score was rated poor and fair had their Average BMI above avarage,Out of the population of 1,879, 321 diet score was poor and 245         was fair and also categorised Obese being 30% of the population.
+  (iv) BMI Diet Score: People who's diet score was rated poor and fair had their Average BMI above avarage,Out of the               population of 1,879, 321 diet score was poor and 245 was fair and also categorised Obese being 30% of the                     population.
 
-   (V) BMI Etinicity: It was also noted the People of Causian race had average BMI above average and where of the population 280 Causians were recorded as Obese and               Overweight.
+   (V) BMI Etinicity: It was also noted the People of Causian race had average BMI above average and where of the                     population 280 Causians were recorded as Obese and Overweight.
 
-   (Vi) BMI Gender: Gender is not a big issue when it comes to Average BMI measure.This was just a 1% difference between them and Women having a higher % than women.
+   (Vi) BMI Gender: Gender is not a big issue when it comes to Average BMI measure.This was just a 1% difference between               them and Women having a higher % than women.
 
-  (Vii) It was also noted that out of the  entire population 34% was categorised as Obese and 27% was found Overweight, thereforebhaving over half of the population being          unhealhty and potential risk to the deadly diseases.
+  (Vii) It was also noted that out of the  entire population 34% was categorised as Obese and 27% was found Overweight,                 thereforebhaving over half of the population being unhealhty and potential risk to the deadly diseases.
   
      
 # Recommendations
