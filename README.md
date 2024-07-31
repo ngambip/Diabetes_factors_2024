@@ -128,9 +128,9 @@ This is the stage where you have a scan of what's in the data, errors and inconc
 
     Working Dataset:
     
-       Reduced columns from 46 to 10, focusing on key variables.
+    Reduced columns from 46 to 10, focusing on key variables.
        
-       Standardized BMI, diet quality, and activity to 4 decimal places for consistency.
+    Standardized BMI, diet quality, and activity to 4 decimal places for consistency.
 
 
        
@@ -200,42 +200,40 @@ return Educational Level Against Average BMI
  return Average Diet Score Against Average BMI  
 
 # Data Analysis
-
-
-
    
     1. Age and Avg BMI, to show distribution across age groups to understand health demographics related to BMI categories.
 
-    2. BMI and Socio-Economic Factors examined BMI distribution based on socioeconomic factors, identifying correlations and impacts on BMI outcomes.
+    2. BMI and Socio-Economic Factors examined BMI distribution based on socioeconomic factors, identifying correlations and impacts         on BMI outcomes.
     
-    3. BMI Against EducationInvestigated BMI in relation to educational attainment to assess educational impacts on BMI and health.
+    3. BMI Against Education Investigated BMI in relation to educational attainment to assess educational impacts on BMI and health.
 
-    4. BMI Against Diet:Explored BMI categories in connection with diet quality and habits to understand dietary influences on BMI.
+    4.  BMI Against Diet:Explored BMI categories in connection with diet quality and habits to understand dietary influences on BMI.
+    
     5. BMI and diet score was used to determine the impact of diet on the sacle of BMI.
 
   ## Findings
 
-   (I)BMI Age Analysis: Highlighted obesity trends across different age groups, emphasizing the need for age-specific health interventions.Age groups of 40-49 and 80-89         had the highest record of Obesity whilst this was common in all ages each group recording above 100 patients as being Obese.
+   (I) BMI Age Analysis: Highlighted obesity trends across different age groups, emphasizing the need for age-specific                      health interventions.Age groups of 40-49 and 80-89 had the highest record of Obesity whilst this was common in all ages each         group recording above 100 patients as being Obese.
     
-    (II)BMI Education Analysis: Identified higher obesity rates among certain education levels especialy holders of Barchelors Degree qualification. These constitute               atleast 39% of the populations and have shown high numbers in thosewith average BMI above the recommended.
+    (II) BMI Education Analysis: Identified higher obesity rates among certain education levels especialy holders of                          Barchelors Degree qualification. These constitute atleast 39% of the populations and have shown high numbers of                      those with average BMI above the recommended.
     
-   (111)BMI Socioeconomic Status Analysis: Noted variations in BMI across different socioeconomic groups and medium income earners being the highted numbers of Obese               Patients recording 302.
+   (iii) BMI Socioeconomic Status Analysis: Noted variations in BMI across different socioeconomic groups and medium income earners           being the highted numbers of Obese Patients recording 302.
     
-   (1v)BMI Diet Score: People who's diet score was rated poor and fair had their Average BMI above avarage. Out of the population of 1,879, 321 diet score was poor and            245 was fair and also categorised Obese being 30% of the population.
+   (1v) BMI Diet Score: People who's diet score was rated poor and fair had their Average BMI above avarage. Out of the population           of 1,879, 321 diet score was poor and 245 was fair and also categorised Obese being 30% of the population.
 
-   (V)BMI Etinicity: It was also noted the People of Causian race had average BMI above average and where of the population 280 Causians were recorded as Obese and               Overweight.
+   (V) BMI Etinicity: It was also noted the People of Causian race had average BMI above average and where of the population 280             Causians were recorded as Obese and Overweight.
 
-   (VI)BMI Gender : Gender is not a big issue when it comes to Average BMI measure.This was just a 1% difference between them and Women having a higher % than women.
+   (VI)  BMI Gender : Gender is not a big issue when it comes to Average BMI measure.This was just a 1% difference between them and           Women having a higher % than women.
 
-    (VII)It was also noted that out of the  entire population 34% was categorised as Obese and 27% was found Overweight, therefore having over half of the population being           unhealhty and potential risk to the deadly diseases.
+    (VII) It was also noted that out of the  entire population 34% was categorised as Obese and 27% was found Overweight, therefore            having over half of the population being unhealhty and potential risk to the deadly diseases.
      
 # Recommendations
 
-   (I) BMI by Age: Develop targeted interventions for specific age groups to prevent obesity Especially eary intervention for the age of 20-29 so that they mature with the        culture of being and maintaing a healthy life style.
+   (I) BMI by Age: Develop targeted interventions for specific age groups to prevent obesity Especially eary intervention for the           age of 20-29 so that they mature with the culture of being and maintaing a healthy life style.
     
    (iI) BMI by Socioeconomic Status,Implement customized health programs for different SES groups.
     
-    (iii)BMI by Education Level: Tailor public health campaigns to promote healthy lifestyles among different educational backgrounds.
+  (iii) BMI by Education Level: Tailor public health campaigns to promote healthy lifestyles among different educational backgrounds.
     
     (iV)BMI by Diet Score: Encourage healthier eating habits through nutritional guidance and education.
 
