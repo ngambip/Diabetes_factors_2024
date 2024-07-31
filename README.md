@@ -1,9 +1,6 @@
 # PORFOLIO- SQL TO POWER BI
 
 
-# Diabetes_factors_2024
-
-
 
 ## Exploring BMI Categories and Health Factors: A Data Analysis Project
 
@@ -33,7 +30,7 @@
    - [Discovery](#discovery)
 - [Recommendations](#recommendations)
   - [Conclusion](#conclusion)
-  - [project Evaluation[(#project-evaluation)
+  - [Project Evaluation](#project-evaluation)
 
 # Objective
 
@@ -220,35 +217,35 @@ return Educational Level Against Average BMI
 
   ## Findings
 
-   -     BMI Age Analysis: Highlighted obesity trends across different age groups, emphasizing the need for age-specific health interventions.Age groups of 40-49 and 80-                89 had the highest record of Obesity whilst this was common in all ages each group recording above 100 patients as being Obese.
+   - BMI Age Analysis: Highlighted obesity trends across different age groups, emphasizing the need for age-specific            health interventions.Age groups of 40-49 and 80-89 had the highest record of Obesity whilst this was common in all         ages each group recording above 100 patients as being Obese.
     
-   -   BMI Education Analysis: Identified higher obesity rates among certain education levels especialy holders of Barchelors Degree qualification. These constitute                   atleast 39% of the populations and have shown high numbers in those with average BMI above the recommended.
+   - BMI Education Analysis: Identified higher obesity rates among certain education levels especialy holders of                Barchelors Degree qualification. These constitute atleast 39% of the populations and have shown high numbers in those      with average BMI above the recommended.
     
-   -   BMI Socioeconomic Status Analysis: Noted variations in BMI across different socioeconomic groups and medium income earners being the highted numbers of Obese                   Patients recording 302.
+   - BMI Socioeconomic Status Analysis: Noted variations in BMI across different socioeconomic groups and medium income         earners being the highted numbers of Obese Patients recording 302.
     
-    -   BMI Diet Score: People who's diet score was rated poor and fair had their Average BMI above avarage. Out of the population of 1,879, 321 diet score was poor and                 245  was fair and also categorised Obese being 30% of the population.
+    - BMI Diet Score: People who's diet score was rated poor and fair had their Average BMI above avarage. Out of the            population of 1,879, 321 diet score was poor and 245  was fair and also categorised Obese being 30% of the                 population.
 
-    -   BMI Etinicity: It was also noted the People of Causian race had average BMI above average and where of the population 280 Causians were recorded as Obese and                   Overweight.
+    - BMI Etinicity: It was also noted the People of Causian race had average BMI above average and where of the                 population 280 Causians were recorded as Obese and Overweight.
 
-    -    BMI Gender : Gender is not a big issue when it comes to Average BMI measure . This was just a 1% difference between them and Women having a higher % than women.
+    - BMI Gender : Gender is not a big issue when it comes to Average BMI measure.This was just a 1% difference between          them and Women having a higher % than women.
 
-    -    It was also noted that out of the  entire population 34% was categorised as Obese and 27% was found Overweight , therefore having over half of the population eing           unhealhty and potential risk to the deadly diseases.
+    - It was also noted that out of the  entire population 34% was categorised as Obese and 27% was found Overweight ,           therefore having over half of the population being unhealhty and potential risk to the deadly diseases.
      
 # Recommendations
 
-    -  BMI by Age: Develop targeted interventions for specific age groups to prevent obesity Especially eary intervention for the age of 20-29 so that they mature with the                     culture of being and maintaing a healthy life style.
+    - BMI by Age: Develop targeted interventions for specific age groups to prevent obesity Especially eary intervention         for the age of 20-29 so that they mature with the culture of being and maintaing a healthy life style.
     
-    -  BMI by Socioeconomic Status: Implement customized health programs for different SES groups.
+    - BMI by Socioeconomic Status: Implement customized health programs for different SES groups.
     
-    -  BMI by Education Level: Tailor public health campaigns to promote healthy lifestyles among different educational backgrounds.
+    - BMI by Education Level: Tailor public health campaigns to promote healthy lifestyles among different educational           backgrounds.
     
-   -   BMI by Diet Score: Encourage healthier eating habits through nutritional guidance and education.
+   - BMI by Diet Score: Encourage healthier eating habits through nutritional guidance and education.
 
 # Conclusion
 
 The BMI analysis project has provided valuable insights into the factors influencing obesity across different demographics. The findings underscore the importance of age, education, socioeconomic status, and diet in shaping BMI trends. By implementing targeted interventions and tailored health programs, we can address the specific needs of various groups and promote healthier lifestyles.
 
-# Project Evaluation:
+# Project Evaluation
 
 This project was a worthwhile undertaking as it highlighted critical areas for intervention and provided actionable recommendations to combat obesity. The insights gained from this analysis can inform public health policies and programs, ultimately contributing to better health outcomes for diverse populations. The project's success lies in its ability to identify at-risk groups and propose practical solutions, making it a valuable contribution to public health research and practice.
 
