@@ -211,7 +211,7 @@ return Educational Level Against Average BMI
 
    (iv) BMI Against Diet:Explored BMI categories in connection with diet quality and habits to understand dietary                       influences on BMI.
     
-    (v) BMI and diet scores was used to determine the impact of diet on the sacle of BMI.
+   (v)  BMI against diet scores was used to determine the impact of diet on the sacle of Average BMI Measure.
      
 
   ## Findings
