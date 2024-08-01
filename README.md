@@ -4,7 +4,9 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
-![BMI MEASURE](Collection/Images/Untitled.png) Body Mass Index  A numerical value of a person's weight in relation to their height. 
+![BMI MEASURE](Collection/Images/Untitled.png) 
+
+## Body Mass Index  A numerical value of a person's weight in relation to their height. 
 
 ------------------------------------------------------------------------------------------------------------------------------------
 # Table of contents 
