@@ -223,7 +223,7 @@ HAVING
   ![Data Type check](Collection/SQL_Images/Duplicate_count.png)
 
 
-   # Visualization  
+# Visualization  
    
 
 
@@ -299,7 +299,7 @@ return Educational Level Against Average BMI
    (v) BMI against diet scores was analyzed to determine the impact of diet on average BMI measurements.
      
 
-  ## Findings
+  # Findings
   
 
    (i) BMI Age Analysis: Highlighted obesity trends across different age groups, emphasizing the need for age-specific health interventions. While all age groups recorded               over 100 obese patients, the age groups 40-49 and 80-89 had the highest numbers. 
