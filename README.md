@@ -1,4 +1,4 @@
-# PORFOLIO- SQL TO POWER BI
+  # PORFOLIO- SQL TO POWER BI
 
 
 
@@ -149,21 +149,77 @@ Below are the Data Quality Check
 SELECT
     COUNT(*) AS no_of_rows
 FROM
-    Diabetes_factors_2024;
+    Diabetes_factors_2024_View;
 ```
-
+### Output 
 
 
   ![Row Count](Collection/SQL_Images/Row_count.png)
 
 
+  ## Column count
+  ```sql
+/*
+# Count the total number of columns (or fields) are in the SQL view
+*/
+
+
+SELECT
+    COUNT(*) AS column_count
+FROM
+    INFORMATION_SCHEMA.COLUMNS
+WHERE_
+    TABLE_NAME = 'Diabetes_factors_2024_view'
+```
+### Output 
+
+![Column Count](Collection/SQL_Images/Column_Count.png)
+
+
 
 ## Data Type Check
+```sql
+/*
+# Check the data types of each column from the view by checking the INFORMATION_SCHEMA view
+*/
+
+-- 1.
+SELECT
+    COLUMN_NAME,
+    DATA_TYPE
+FROM
+    INFORMATION_SCHEMA.COLUMNS
+WHERE
+    TABLE_NAME = 'Diabetes_factors_2024_view';
+```
 
   ![Data Type-check](Collection/SQL_Images/Data_type_checks.png)
 
 
-## Duplicate Check
+## Duplicate count check
+### SQL query 
+```sql
+/*
+# 1. Check for duplicate rows in the view
+# 2. Group by the PatientId
+# 3. Filter for groups with more than one row
+*/
+
+-- 1.
+SELECT
+    PatientId
+FROM
+    Diabetes_factors_View
+
+-- 2.
+GROUP BY
+   PatientId
+
+-- 3.
+HAVING
+    COUNT(*) > 1;
+```
+### Output
 
   ![Data Type check](Collection/SQL_Images/Duplicate_count.png)
 
@@ -171,7 +227,7 @@ FROM
    # Visualization  
    
 
--  
+
    ![PBI DASHBOARD](Collection/Images/Diabetes_Dashboard_Analysis.png)
   
 This shows the different factors that affect BMI measures and to what extent.
@@ -214,9 +270,9 @@ return Educational Level Against Average BMI
 # Data Analysis
 
    
-  (i) Analyzing the distribution of age and average BMI reveals insights into health demographics concerning BMI                     categories.
+  (i) Analyzing the distribution of age and average BMI reveals insights into health demographics concerning BMI categories.
 
-  (ii) Examining BMI and socioeconomic factors involves analyzing the distribution of BMI based on various socioeconomic               factors to identify correlations and impacts on BMI outcomes.
+  (ii) Examining BMI and socioeconomic factors involves analyzing the distribution of BMI based on various socioeconomic factors to identify correlations and impacts on             BMI outcomes.
 
   (iii) Investigating BMI in relation to educational attainment assesses the impact of education on BMI and overall health.
 
@@ -228,30 +284,30 @@ return Educational Level Against Average BMI
   ## Findings
   
 
-   (i) BMI Age Analysis: Highlighted obesity trends across different age groups, emphasizing the need for age-specific               health interventions. While all age groups recorded over 100 obese patients, the age groups 40-49 and 80-89 had             the highest numbers. 
+   (i) BMI Age Analysis: Highlighted obesity trends across different age groups, emphasizing the need for age-specific health interventions. While all age groups recorded               over 100 obese patients, the age groups 40-49 and 80-89 had the highest numbers. 
     
-  (ii) BMI Education Analysis: Identified higher obesity rates among individuals with Bachelor's degrees. This group                   constitutes at least 39% of the population and has a significant number of individuals with average BMI above                 the recommended levels.
+  (ii) BMI Education Analysis: Identified higher obesity rates among individuals with Bachelor's degrees. This group constitutes at least 39% of the population and has a             significant number of individuals with average BMI above the recommended levels.
     
-  (iii) BMI Socioeconomic Status Analysis: Noted variations in BMI across different socioeconomic groups, with medium-                income earners having the highest number of obese patients, recording 302.
+  (iii) BMI Socioeconomic Status Analysis: Noted variations in BMI across different socioeconomic groups, with medium-income earners having the highest number of obese                 patients, recording 302.
   
-   (iv) BMI Diet Score Analysis: Individuals with poor and fair diet scores had above-average BMIs. Out of a population of            1,879, 321 had poor diet scores, and 245 had fair diet scores. These groups, categorized as obese, constituted               30% of the population.
+   (iv) BMI Diet Score Analysis: Individuals with poor and fair diet scores had above-average BMIs. Out of a population of 1,879, 321 had poor diet scores, and 245 had               fair diet scores. These groups, categorized as obese, constituted 30% of the population.
 
-   (V) BMI Ethnicity Analysis: It was noted that individuals of Caucasian descent had above-average BMIs. Out of the                 population, 280 Caucasians were recorded as obese and overweight.
+   (V) BMI Ethnicity Analysis: It was noted that individuals of Caucasian descent had above-average BMIs. Out of the population, 280 Caucasians were recorded as obese and               overweight.
 
-   (Vi) BMI Gender Analysis: Gender has a minimal impact on average BMI measurements, with only a 1% difference between               men and women. Women have a slightly higher average BMI than men.
+   (Vi) BMI Gender Analysis: Gender has a minimal impact on average BMI measurements, with only a 1% difference between men and women. Women have a slightly higher average             BMI than men.
 
-  (Vii) It was also noted that 34% of the entire population was categorized as obese, and 27% was found to be overweight.               This means over half of the population is classified as unhealthy and at potential risk for serious diseases.
+  (Vii) It was also noted that 34% of the entire population was categorized as obese, and 27% was found to be overweight. This means over half of the population is                     classified as unhealthy and at potential risk for serious diseases.
   
      
 # Recommendations
 
-   (i) BMI by Age: Develop targeted interventions for specific age groups to prevent obesity. Focus on early intervention              for the 20-29 age group to help them adopt and maintain a healthy lifestyle. For other age groups, implement                tailored programs addressing their unique needs and challenges to promote overall health and prevent obesity.
+   (i) BMI by Age: Develop targeted interventions for specific age groups to prevent obesity. Focus on early intervention for the 20-29 age group to help them adopt and           maintain a healthy lifestyle. For other age groups, implement tailored programs addressing their unique needs and challenges to promote overall health and prevent               obesity.
     
-  (ii)  BMI by Socioeconomic Status: Implement customized health programs tailored to different socioeconomic status (SES)            groups. For lower SES groups, offer subsidized or free access to nutrition education, healthy food options,and                physical activity programs. For higher SES groups, focus on maintaining healthy habits through advanced                 wellness programs, regular health screenings, and lifestyle coaching. This approach ensures that health                     interventions are accessible and effective across varying economic conditions.
+  (ii)  BMI by Socioeconomic Status: Implement customized health programs tailored to different socioeconomic status (SES)groups. For lower SES groups, offer subsidized or             free access to nutrition education, healthy food options,and physical activity programs. For higher SES groups, focus on maintaining healthy habits through               advanced wellness programs, regular health screenings, and lifestyle coaching. This approach ensures that healt interventions are accessible and effective across           varying economic conditions.
     
-  (iii) BMI by Education Level: Tailor public health campaigns to promote healthy lifestyles for different educational                 backgrounds. For lower education levels, offer simple health tips and community programs. For higher education               levels, provide detailed health information and specialized wellness activities.
+  (iii) BMI by Education Level: Tailor public health campaigns to promote healthy lifestyles for different educational backgrounds. For lower education levels, offer                   simple health tips and community programs. For higher education levels, provide detailed health information and specialized wellness activities.
     
-   (iV) MI by Diet Score: Promote healthier eating habits through targeted nutritional guidance and education. Offer                   workshops and resources to improve diet quality for those with poor and fair diet scores, and provide                       personalized meal planning and cooking classes to support better dietary choices.
+   (iV) BMI by Diet Score: Promote healthier eating habits through targeted nutritional guidance and education. Offer workshops and resources to improve diet quality for               those with poor and fair diet scores, and provide  personalized meal planning and cooking classes to support better dietary choices.
 
 # Conclusion
 
