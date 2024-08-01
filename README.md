@@ -161,7 +161,7 @@ Below are the Data Quality Check
    
 
 -  
-   ![PBI DASHBOARD](Collection/Images/Power_bi_Dashboard.png)
+   ![PBI DASHBOARD](Collection/Images/Diabetes_Dashboard_Analysis.png)
   
 This shows the different factors that affect BMI measures and to what extent.
 
