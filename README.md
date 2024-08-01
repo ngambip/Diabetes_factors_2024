@@ -140,6 +140,7 @@ This is the stage where you have a scan of what's in the data, errors and inconc
 Below are the Data Quality Check
 
 ## Row count
+```sql
 
 /*
 # Count the total number of records (or rows) in the SQL view
@@ -149,7 +150,7 @@ SELECT
     COUNT(*) AS no_of_rows
 FROM
     Diabetes_factors_2024;
-
+```
 
 
 
