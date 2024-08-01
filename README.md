@@ -238,9 +238,21 @@ This shows the different factors that affect BMI measures and to what extent.
 
 ## DAX Measures
 
-### AVERAGE BMI CATEGORIS
+### 1. Average BMI Categories
 
-  ![AVG BMI Category](Collection/Images/Average_WHO_BMI_Measure.png)
+```sql
+SWITCH(
+    TRUE(),
+    Diabetes_factors_2024_view[BMI] < 18.5, "Underweight",
+    Diabetes_factors_2024_view[BMI] >= 18.5 && Diabetes_factors_2024_view[BMI] < 24.9, "Normal weight",
+    Diabetes_factors_2024_view[BMI] >= 25 && Diabetes_factors_2024_view[BMI] < 29.9, "Overweight",
+    Diabetes_factors_2024_view[BMI] >= 30, "Obese",
+    "Unknown"
+)
+```
+### Output
+
+ ![AVG BMI Category](Collection/Images/Average_WHO_BMI_Measure.png)
 
 Return Average BMI of All Patients
 
