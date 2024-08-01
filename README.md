@@ -1,15 +1,13 @@
 # PROJECT PORTFOLIO
-
 # SQL TO POWER BI
-
-
-
 ## Exploring BMI Categories and Health Factors: A Data Analysis Project
 
 
+---------------------------------------------------------------------------------------------------------------------------------
+
 ![BMI MEASURE](Collection/Images/Untitled.png)
 
-
+------------------------------------------------------------------------------------------------------------------------------------
 # Table of contents 
 
 - [Objective](#objective)
