@@ -1,6 +1,5 @@
-# PROJECT PORTFOLIO
-# SQL TO POWER BI
-## Exploring BMI Categories and Health Factors: A Data Analysis Project
+# SQL TO POWER BI.
+## Exploring BMI Categories and Health Factors.
 
 
 ---------------------------------------------------------------------------------------------------------------------------------
