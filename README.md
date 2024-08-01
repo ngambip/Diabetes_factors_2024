@@ -141,6 +141,16 @@ Below are the Data Quality Check
 
 ## Row count
 
+/*
+# Count the total number of records (or rows) in the SQL view
+*/
+
+SELECT
+    COUNT(*) AS no_of_rows
+FROM
+    Diabetes_factors_2024;
+
+
 
 
   ![Row Count](Collection/SQL_Images/Row_count.png)
