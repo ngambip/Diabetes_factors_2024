@@ -256,7 +256,7 @@ SWITCH(
 Return Average BMI of All Patients
 
 
-Reference for the above DAX calulation is base on World Health Organization Chart measures
+Reference for the above DAX calulation is based on World Health Organization measuring Chart.
 
 
 ![WHO Chart](Collection/Images/Who_BMI_Weight_Chart_.png)
