@@ -258,6 +258,13 @@ SWITCH(
 
 Return Average BMI of All Patients
 
+
+Reference for the above DAX calulation is base on World Health Organization Chart measures
+
+
+![WHO Chart](Collection/Images/Who_BMI_Weight_Chart_.png)
+
+
 ### SOCIAL ECONOMIC STATUS
 
   ![AVG BMI Category](Collection/Images/Average_BMI_by_SES.png)
