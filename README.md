@@ -304,7 +304,8 @@ return Educational Level Against Average BMI
 # Findings
   
 
-   (i) BMI Age Analysis: Highlighted obesity trends across different age groups, emphasizing the need for age-specific health interventions. While all age groups recorded               over 100 obese patients, the age groups 40-49 and 80-89 had the highest numbers. 
+   (i) BMI Age Analysis: Highlight obesity trends, emphasizing age-specific interventions. Age groups 40-49 and 80-89 had the highest obesity numbers, with all groups                   having over 100 obese patients.
+
     
   (ii) BMI Education Analysis: Identified higher obesity rates among individuals with Bachelor's degrees. This group constitutes at least 39% of the population and has a             significant number of individuals with average BMI above the recommended levels.
     
@@ -321,14 +322,15 @@ return Educational Level Against Average BMI
      
 # Recommendations
 
-   (i) BMI by Age: Develop targeted interventions for specific age groups to prevent obesity. Focus on early intervention for the 20-29 age group to help them adopt and           maintain a healthy lifestyle. For other age groups, implement tailored programs addressing their unique needs and challenges to promote overall health and prevent               obesity.
+   (i) Develop targeted interventions to prevent obesity. Focus on early intervention for ages 20-29 to promote healthy lifestyles. Tailor programs for other age groups to             address their unique needs and promote overall health.
     
-  (ii)  BMI by Socioeconomic Status: Implement customized health programs tailored to different socioeconomic status (SES)groups. For lower SES groups, offer subsidized or             free access to nutrition education, healthy food options,and physical activity programs. For higher SES groups, focus on maintaining healthy habits through               advanced wellness programs, regular health screenings, and lifestyle coaching. This approach ensures that healt interventions are accessible and effective across           varying economic conditions.
-    
-  (iii) BMI by Education Level: Tailor public health campaigns to promote healthy lifestyles for different educational backgrounds. For lower education levels, offer                   simple health tips and community programs. For higher education levels, provide detailed health information and specialized wellness activities.
-    
-   (iV) BMI by Diet Score: Promote healthier eating habits through targeted nutritional guidance and education. Offer workshops and resources to improve diet quality for               those with poor and fair diet scores, and provide  personalized meal planning and cooking classes to support better dietary choices.
+  (ii)  BMI by Socioeconomic Status: Tailor health programs to SES. For lower SES, offer subsidized nutrition education and activity programs. For higher SES, focus on               wellness programs and health screenings.
 
+    
+  (iii) Tailor health campaigns. For lower education, offer simple tips and community programs. For higher education, provide detailed information and specialized wellness               activities.
+    
+   (iV) Tailor health campaigns: offer simple tips and community programs for lower education, and provide detailed information and specialized wellness activities for                 higher education levels.
+   
 # Conclusion
 
 The BMI analysis project has provided valuable insights into the factors influencing obesity across different demographics. The findings underscore the importance of age, education, socioeconomic status, and diet in shaping BMI trends. By implementing targeted interventions and tailored health programs, we can address the specific needs of various groups and promote healthier lifestyles.
