@@ -233,7 +233,7 @@ HAVING
    
 
 
-   ![PBI DASHBOARD](Collection/Images/GIF_DASHBOARD.gif)
+   ![PBI DASHBOARD](Collection/Images/GIF_Dashboard.gif)
   
 This shows the different factors that affect BMI measures and to what extent.
 
