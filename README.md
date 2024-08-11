@@ -302,7 +302,6 @@ return Educational Level Against Average BMI
 
    (iv) Exploring BMI categories in connection with diet quality and habits helps understand the dietary influences on BMI
     
-   (v) BMI against diet scores was analyzed to determine the impact of diet on average BMI measurements.
      
 
 # Findings
