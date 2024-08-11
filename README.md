@@ -55,6 +55,8 @@ The Dashboarrd will provide insights about the potential triggers of diabetes wi
   - BMI Against Gender
   - BMI Against Ethnicity
 
+I will use this information to to help the implementers of the project to design specific solutions for target groups.
+
 
 
 # Data Source
@@ -98,14 +100,14 @@ The dashbord should answer the following question
 
 - General Approach
 
-1. Get the data
-2. Explore the data in Excel
-3. Load the data into SQL Server
-4. Clean the data with SQL
-5. Test the data with SQL
-6. Visualize the data in Power BI
-7. Generate the findings based on the insights
-9. Publish the data to GitHub Pages
+1. Import data into Excel from kaggle
+2. Data exploration
+3. Upload data into SQL
+4. Data cleaning in SQL
+5. Data Testing in SQL
+6. Upload cleaned data into Power BI
+7. Create visuals and analze findings
+9. Create repository on Github
 
    
 
@@ -129,9 +131,11 @@ This is the stage where you have a scan of what's in the data, errors and inconc
 
     Working Dataset:
     
-    Reduced columns from 46 to 10, focusing on key variables.
+    Reduced columns from 46 to 8, focusing on key variables.
        
-    Standardized BMI, diet quality, and activity to 4 decimal places for consistency.
+    Standardized BMI and  diet quality score to 4 decimal places for consistency.
+
+    Converted all binary coding data to descritive data as guided by the data source.
 
 
        
@@ -268,7 +272,7 @@ Reference for the above DAX calulation is based on World Health Organization mea
 
   ![AVG BMI Category](Collection/Images/Average_BMI_by_SES.png)
 
-Return Socila Economic status againts average BMI
+Return Social Economic status againts average BMI
 
 
 ### EDUCATIONAL LEVEL
@@ -296,7 +300,7 @@ return Educational Level Against Average BMI
 
   (iii) Investigating BMI in relation to educational attainment assesses the impact of education on BMI and overall health.
 
-   (iv) Exploring BMI categories in connection with diet quality and habits helps understand the dietary influences on BM
+   (iv) Exploring BMI categories in connection with diet quality and habits helps understand the dietary influences on BMI
     
    (v) BMI against diet scores was analyzed to determine the impact of diet on average BMI measurements.
      
